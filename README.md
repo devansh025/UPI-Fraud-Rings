@@ -238,10 +238,3 @@ The number of output rows should match the number of rows in `test.csv`.
 
 
 
-## Disclaimer
-
-This is a machine-learning project/notebook for experimentation and
-competition-style prediction. It is not a deployed fraud-prevention
-system and should not be used to make real financial decisions without
-extensive independent validation, monitoring, security review, and
-appropriate safeguards.
