@@ -236,20 +236,7 @@ The number of output rows should match the number of rows in `test.csv`.
     does not by itself establish model quality. Evaluate class-wise
     precision/recall and macro-F1 on a leakage-safe validation set.
 
-## Repository structure
 
-A suggested layout is:
-
-``` text
-upi-fraud-rings/
-├── README.md
-├── starter_notebook.ipynb
-└── data/                  # Keep dataset files local; usually do not commit them
-    ├── train.csv
-    ├── test.csv
-    ├── accounts.csv
-    └── merchants.csv
-```
 
 ## Disclaimer
 
